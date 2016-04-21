@@ -142,5 +142,6 @@
         android:layout_height="wrap_content"
         android:text="Reset"
         android:layout_margin="8dp"
-        android:onClick="reset"/>
+        android:onClick="reset"
+        android:background="#50000068"/>
 </RelativeLayout>
